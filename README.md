@@ -72,9 +72,7 @@ The dataset contains financial and operational information about leading SaaS co
 - Matplotlib, Seaborn (Data visualization)
 - Jupyter Notebook (Exploratory interface)
 
-## How to Run the Project
-
-## How to Run the Project
+## How to Run
 
 Follow the steps below to set up and run the Jupyter Notebook:
 
