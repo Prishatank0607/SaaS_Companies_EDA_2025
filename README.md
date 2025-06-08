@@ -77,13 +77,14 @@ The dataset contains financial and operational information about leading SaaS co
 1. Clone the repository
 git clone https://github.com/Prishatank0607/SaaS_Companies_EDA_2025.git
 
-2.  Navigate to the project directory
+2. Navigate to the project directory
 cd SaaS_Companies_EDA_2025
 
 3. (Optional) Create and activate a virtual environment
 python -m venv venv
-source venv/bin/activate      # For macOS/Linux
+source venv/bin/activate      # For macOS/Linux  
 venv\Scripts\activate         # For Windows (use this instead)
+
 
 4. Install required dependencies
 pip install -r requirements.txt
