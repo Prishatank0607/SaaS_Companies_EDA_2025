@@ -74,25 +74,29 @@ The dataset contains financial and operational information about leading SaaS co
 
 ## How to Run the Project
 
-1. Clone the repository
+## How to Run the Project
+
+Follow the steps below to set up and run the Jupyter Notebook:
+
+```bash
+# Clone the repository
 git clone https://github.com/Prishatank0607/SaaS_Companies_EDA_2025.git
 
-2. Navigate to the project directory
+# Navigate to the project directory
 cd SaaS_Companies_EDA_2025
 
-3. (Optional) Create and activate a virtual environment
-   
-   python -m venv venv
-   source venv/bin/activate      # For macOS/Linux  
-   venv\Scripts\activate         # For Windows (use this instead)
+# (Optional) Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate      # For macOS/Linux
+# venv\Scripts\activate       # For Windows (use this instead)
 
-
-5. Install required dependencies
+# Install required dependencies
 pip install -r requirements.txt
 
-6. Launch Jupyter Notebook
+# Launch Jupyter Notebook
 jupyter notebook
 
-7. Open and run the notebook
-SaaS_Companies_EDA_2025.ipynb
+# Open and run the notebook
+# SaaS_Companies_EDA_2025.ipynb
+
 
