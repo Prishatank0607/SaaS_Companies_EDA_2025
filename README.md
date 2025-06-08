@@ -82,9 +82,9 @@ cd SaaS_Companies_EDA_2025
 
 3. (Optional) Create and activate a virtual environment
    
-python -m venv venv
-source venv/bin/activate      # For macOS/Linux  
-venv\Scripts\activate         # For Windows (use this instead)
+   python -m venv venv
+   source venv/bin/activate      # For macOS/Linux  
+   venv\Scripts\activate         # For Windows (use this instead)
 
 
 5. Install required dependencies
