@@ -81,17 +81,18 @@ git clone https://github.com/Prishatank0607/SaaS_Companies_EDA_2025.git
 cd SaaS_Companies_EDA_2025
 
 3. (Optional) Create and activate a virtual environment
+   
 python -m venv venv
 source venv/bin/activate      # For macOS/Linux  
 venv\Scripts\activate         # For Windows (use this instead)
 
 
-4. Install required dependencies
+5. Install required dependencies
 pip install -r requirements.txt
 
-5. Launch Jupyter Notebook
+6. Launch Jupyter Notebook
 jupyter notebook
 
-6. Open and run the notebook
+7. Open and run the notebook
 SaaS_Companies_EDA_2025.ipynb
 
